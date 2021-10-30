@@ -1,16 +1,13 @@
-### Hi there 👋
+### EFI BIGSUR 11.6 ASUS B450-F RYZEN 5 3600
 
-<!--
-**izauharry/izauharry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desktop:
+- Motherboard : Asus Rog Stix B450-F
+- Processor : AMD Ryzen 5 3600
+- dGPU : Nvidia GK208 GT730 2GB DDR3
+- RAM : 2x 8GB DDR4 3200 Mhz
+- Audio Codec : SuperFX8 CODEC S1220A
+- Storage : SSD Sata 256GB
+- Ethernet : Intel l211
+- Wifi Dongle : Tp-link WN772N V3
+- Bootloader : Opencore 0.7.4
+- OS Version : MacOS BigSur 11.6
