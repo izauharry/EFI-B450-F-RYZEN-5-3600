@@ -11,3 +11,6 @@ Desktop:
 - Wifi Dongle : Tp-link WN772N V3
 - Bootloader : Opencore 0.7.4
 - OS Version : MacOS BigSur 11.6
+
+
+### BEFORE INTSALL, CHANGE SERIAL NUMBER WITH SMBIOS
